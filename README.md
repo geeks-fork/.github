@@ -1,2 +1,5 @@
-# This is Hugo-Theme Org
-Hugo 主题收集
+# This is the Org for my favor forked repository
+
+* funny
+* useful
+* others
